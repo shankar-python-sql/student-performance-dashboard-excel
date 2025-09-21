@@ -91,3 +91,4 @@ This Excel-based project analyzes how **socioeconomic and behavioral factors** a
 ## 📝 License
 
 MIT License — free to use and modify
+![Dashboard Preview](images/dashboard_screenshot.png)
