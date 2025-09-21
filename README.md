@@ -39,7 +39,8 @@ This Excel-based project analyzes how **socioeconomic and behavioral factors** a
 - 🔄 Drop-down based filtering (Google Sheets)
 - 📎 All insights visible on a single sheet
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png.png)
+
 
 ---
 
